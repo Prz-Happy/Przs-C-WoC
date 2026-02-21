@@ -1,0 +1,3 @@
+D:/Workspaces/CandCPP/Expression Evaluator Prz/cmake-build-debug/CMakeFiles/Expression_Evaluator_Prz.dir
+D:/Workspaces/CandCPP/Expression Evaluator Prz/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Workspaces/CandCPP/Expression Evaluator Prz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\CLion 2025.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "D:\Workspaces\CandCPP\Expression Evaluator Prz" -B "D:\Workspaces\CandCPP\Expression Evaluator Prz\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Workspaces/CandCPP/Expression Evaluator Prz/cmake-build-debug
