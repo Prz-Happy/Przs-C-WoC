@@ -43,3 +43,4 @@
 # My useless file
 .idea/
 Token.cpp
+build/
